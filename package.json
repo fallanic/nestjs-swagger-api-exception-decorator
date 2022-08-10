@@ -32,9 +32,9 @@
     "@nestjs/swagger": ">= 4.8.1"
   },
   "devDependencies": {
-    "@nestjs/common": "^8.2.6",
-    "@nestjs/core": "^8.2.6",
-    "@nestjs/swagger": "^5.2.0",
+    "@nestjs/common": "^9.0.8",
+    "@nestjs/core": "^9.0.8",
+    "@nestjs/swagger": "^6.0.5",
     "@types/jest": "^27.4.0",
     "@typescript-eslint/eslint-plugin": "^5.11.0",
     "@typescript-eslint/parser": "^5.11.0",
